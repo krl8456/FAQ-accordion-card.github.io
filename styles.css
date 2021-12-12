@@ -102,23 +102,23 @@ a:hover , a:visited{
     }
     #first {
         position: relative;
-        height: 60%;
-        width: 100%;
-        left: 50%;
-        bottom: 30%;
+        height: 215%;
+        width: 130%;
+        left: 35%;
+        bottom: 120%;
     }
     #second {
         position: relative;
-        height: 200%;
-        width: 85%;
-        bottom: 170%;
-        left: 55%;
+        height: 170%;
+        width: 130%;
+        bottom: 320%;
+        left: 32%;
     }
     #third {
         position: absolute;
-        bottom: 70%;
-        right: 54%;
-        height: 21%;
+        bottom: 76%;
+        right: 60%;
+        height: 12%;
         width: 13%;
     }
     .images {
@@ -130,6 +130,7 @@ a:hover , a:visited{
     }
     h1 {
         text-align: center;
+        margin-bottom: 30px;
     }
     .title:hover {
         color: black;
